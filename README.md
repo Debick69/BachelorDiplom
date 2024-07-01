@@ -11,3 +11,6 @@ https://www.webhostface.com/kb/knowledgebase/install-laravel-windows/
 ## Запуск приложения
 Папка VKR должна находиться в директории ../xampp/htdocs.
 После запуска модулей Apache и MySQL через XAMPP - перейти по ссылке http://localhost/VKR/public/.
+
+Логины (почта) можно посмотреть в базе данных в таблице users.
+Пароли: Password1234
