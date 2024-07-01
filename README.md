@@ -1,1 +1,1 @@
-# DachelorDiplom
+# BachelorDiplom
