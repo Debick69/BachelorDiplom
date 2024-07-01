@@ -14,10 +14,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/register', [\App\Http\Controllers\Missions\MissionsController::class, 'remissions'])->name('route_register');
 Auth::routes();
 Route::get('/', [\App\Http\Controllers\Missions\MissionsController::class, 'remissions'])->name('route_remissions');
 Route::get('/home', [\App\Http\Controllers\Missions\MissionsController::class, 'remissions'])->name('route_remissions');
-Route::get('/register', [\App\Http\Controllers\Missions\MissionsController::class, 'remissions'])->name('route_register');
 
 Route::get('/missions', [\App\Http\Controllers\Missions\MissionsController::class, 'missions'])->name('route_missions');
 Route::get('/statistics', [\App\Http\Controllers\Statistics\StatisticsController::class, 'statistics'])->name('route_statistics');
