@@ -14,3 +14,4 @@ https://www.webhostface.com/kb/knowledgebase/install-laravel-windows/
 
 Логины (почта) можно посмотреть в базе данных в таблице users.
 Пароли: Password1234
+Для создания нового пользователя необходимо перейти по ссылке http://localhost/VKR/public/register/.
