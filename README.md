@@ -9,5 +9,5 @@ https://www.webhostface.com/kb/knowledgebase/install-laravel-windows/
 Импорт базы данных laravel.sql с помощью администрирования запущенного модуля MySQL в XAMPP.
 
 ## Запуск приложения
-Папка VKR должна находиться в директории ../xampp/htdocs
-После запуска через XAMPP модулей Apache и MySQL - перейти по ссылке http://localhost/VKR/public/.
+Папка VKR должна находиться в директории ../xampp/htdocs.
+После запуска модулей Apache и MySQL через XAMPP - перейти по ссылке http://localhost/VKR/public/.
